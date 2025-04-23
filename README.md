@@ -13,7 +13,7 @@
 * Provide list of recommended modules and steps on how to install them.
 
 ```
-Setup examples:
+Set-up examples:
 ...
 ```
 
